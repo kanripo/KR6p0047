@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:23.684616
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:54
 #+TITLE: 往生淨土決疑行願二門
 #+PROPERTY: CBETA_ID T47n1968
 #+PROPERTY: ID KR6p0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1968
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0047_T_000-0144c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6p0047_T_001-0144c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1968¶
-
- 往生淨土決疑行願二門¶
+No. 1968¶
+往生淨土決疑行願二門¶
 ¶
 宋耆山沙門遵式述¶
 
@@ -190,9 +189,9 @@ No.1968¶
 　我今淨三業
 　歸依及禮讚¶
 　願共諸眾生
-　同生安樂剎(讚願¶已即便禮佛。一一存心專對唱云)
+　同生安樂剎(讚願¶已即便禮佛。一一存心專對唱云)」
 #+END_VERSE
-」¶
+¶
 
 一心頂禮常寂光淨土阿彌陀如來清淨妙法¶
 身遍法界諸佛¶
@@ -307,7 +306,7 @@ No.1968¶
 生淨土誓相救濟。凡歷一切境界若善若惡。¶
 由心憶佛皆心念作願。故普賢願王云。作一¶
 切惡皆不成就。若作善業皆悉和合。即此意¶
-爾。如是相續念佛在心。能辦一切淨因功德。
+爾。如是相續念佛在心。能辨一切淨因功德。
 <pb:KR6p0047_T_001-0147c>¶
 恐煩披覽不復具說。誠哉此門為益最大。¶
 
